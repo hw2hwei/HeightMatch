@@ -1,0 +1,12 @@
+Kitsap/image/kitsap2_74.tif Kitsap/label/kitsap2_74.tif Kitsap/height/kitsap2_74.png
+Austin/image/austin27_33.tif Austin/label/austin27_33.tif Austin/height/austin27_33.png
+Chicago/image/chicago12_44.tif Chicago/label/chicago12_44.tif Chicago/height/chicago12_44.png
+Kitsap/image/kitsap5_50.tif Kitsap/label/kitsap5_50.tif Kitsap/height/kitsap5_50.png
+Kitsap/image/kitsap21_34.tif Kitsap/label/kitsap21_34.tif Kitsap/height/kitsap21_34.png
+Tyrol/image/tyrol-w19_75.tif Tyrol/label/tyrol-w19_75.tif Tyrol/height/tyrol-w19_75.png
+Chicago/image/chicago35_41.tif Chicago/label/chicago35_41.tif Chicago/height/chicago35_41.png
+Kitsap/image/kitsap7_13.tif Kitsap/label/kitsap7_13.tif Kitsap/height/kitsap7_13.png
+Kitsap/image/kitsap10_22.tif Kitsap/label/kitsap10_22.tif Kitsap/height/kitsap10_22.png
+Tyrol/image/tyrol-w22_39.tif Tyrol/label/tyrol-w22_39.tif Tyrol/height/tyrol-w22_39.png
+Vienna/image/vienna20_63.tif Vienna/label/vienna20_63.tif Vienna/height/vienna20_63.png
+Tyrol/image/tyrol-w18_50.tif Tyrol/label/tyrol-w18_50.tif Tyrol/height/tyrol-w18_50.png

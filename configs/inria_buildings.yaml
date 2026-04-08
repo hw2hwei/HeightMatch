@@ -1,0 +1,18 @@
+# arguments for dataset
+dataset: inria_buildings
+data_root: /home/Datasets/RSSeg/INRIA
+nclass: 2
+class_bg: 0
+class_bd: 255
+crop_size: 512
+
+# arguments for training
+epochs: 20
+batch_size: 4 # per GPU x 4 GPUs
+criterion:
+  name: CELoss
+  lr: 0.000005
+  lr_multi: 40.0
+conf_thresh: 0.95
+
+
