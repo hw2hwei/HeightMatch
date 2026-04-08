@@ -1,0 +1,17 @@
+# Auto-generated from uploaded project files
+# Core deep learning
+torch
+torchvision
+
+# Config / utilities
+PyYAML
+numpy
+Pillow
+matplotlib
+
+# Evaluation / result export
+pandas
+openpyxl
+
+# Depth generation
+transformers
